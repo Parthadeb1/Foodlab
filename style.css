@@ -19,7 +19,7 @@ p{
     width: 100%;
 }
 .logo{
-    width:10%;
+    width:8%;
     height:10%;
     margin-bottom: 50px;
     margin-top:-73px;
@@ -27,6 +27,8 @@ p{
 }
 .hero1{
     margin-left: 50px;
+    margin-bottom: 75px;
+    padding-bottom: 10px;
 }
 .hero2 img{
     width:70%;
