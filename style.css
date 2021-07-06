@@ -19,8 +19,11 @@ p{
     width: 100%;
 }
 .logo{
-    width:50%;
+    width:10%;
+    height:10%;
     margin-bottom: 50px;
+    margin-top:-73px;
+    margin-left:-31px;
 }
 .hero1{
     margin-left: 50px;
@@ -76,6 +79,14 @@ p{
     border-radius: 10px;
     padding:10px;
 }
+.box-shadow:hover{
+    background-color:rgba(218, 120, 120, 0.616);
+    color:#fff;
+    opacity:2px;
+}
+.box-shadow:hover p{
+    color:white;
+}
 .box-shadow p{
     text-align: justify;
     padding:3px;
@@ -96,6 +107,9 @@ p{
     margin-left: 190px;
     font-size: 20px;
 }
+.f-count h1{
+    font-size:50px;
+}
 .Tweeter{
     color:rgb(255, 20, 32);
 }
@@ -108,7 +122,7 @@ p{
     background-color:rgb(53, 48, 48);
     Color:white;
     margin-top:50px;
-    padding-top:30px;
+    padding-top:1px;
     height:200px;
 
 
@@ -116,4 +130,5 @@ p{
 .footer-bar p{
     font-size:20px;
     color:darkgray;
+    padding-bottom: 5px;
 }
