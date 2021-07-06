@@ -1,0 +1,53 @@
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:70px;
+}
+p{
+    color:rgb(46, 3, 87);
+    font-size: 26px;
+}
+.color-name{
+    color:orange;
+}
+.section1{
+    display:flex;
+    padding-top:40px;
+    background-image: url(../images/first-cover.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+.hero1{
+    margin-left: 50px;
+}
+.hero2 img{
+    width:70%;
+}
+.hero2{
+    margin-left:140px
+}
+.click-btn{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(63, 54, 54), rgb(236, 41, 7));
+    padding: 10px 25px;
+    color: #fff;
+    border-radius:10px;
+    font-size:20px;
+}
+/*hero section end*/
+
+/*middle section*/
+.section2{
+    display:flex;
+    padding-top:60px;
+    background-image:url(../images/middle-cover.jpg);
+    background-size: cover;
+    width: 100%;
+}
+.middle-pic img{
+    width:50%;
+}
+.middle-pic{
+    margin-left:180px;
+}
