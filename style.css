@@ -29,11 +29,11 @@ p{
 }
 .click-btn{
     text-decoration: none;
-    background-image: linear-gradient(rgb(63, 54, 54), rgb(236, 41, 7));
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 25px;
     color: #fff;
     border-radius:10px;
-    font-size:20px;
+    font-size:25px;
 }
 /*hero section end*/
 
@@ -70,29 +70,26 @@ p{
     margin:10px 30px;
     border-radius: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.follower{
+  border-radius: 30px;
+  margin: 5px 10px;
+  padding:20px 20px;
+  display:flex;
+  box-shadow: 10px 10px 50px gray;
+}
+.f-count{
+    margin-left: 230px;
+    font-size: 20px;
+}
 /*foter bar*/
 .footer-bar{
     text-align: center;
     font-size:22px;
     background-color:rgb(53, 48, 48);
     Color:white;
-    margin-top:20px;
-    padding-top:25px;
+    margin-top:50px;
+    padding-top:30px;
+
 
 }
 .footer-bar p{
