@@ -74,6 +74,7 @@ p{
     box-shadow: 10px 10px 50px gray;
     margin:20px 30px;
     border-radius: 10px;
+    padding:10px;
 }
 .box-shadow p{
     text-align: justify;
@@ -85,13 +86,14 @@ p{
 }
 .follower{
   border-radius: 30px;
-  margin: 5px 10px;
-  padding:20px 20px;
+  margin-left:106px;
+  margin-right:106px;
+  
   display:flex;
   box-shadow: 5px 8px 20px gray;
 }
 .f-count{
-    margin-left: 230px;
+    margin-left: 190px;
     font-size: 20px;
 }
 .Tweeter{
@@ -107,6 +109,7 @@ p{
     Color:white;
     margin-top:50px;
     padding-top:30px;
+    height:200px;
 
 
 }
