@@ -18,6 +18,10 @@ p{
     background-position: center;
     width: 100%;
 }
+.logo{
+    width:50%;
+    margin-bottom: 50px;
+}
 .hero1{
     margin-left: 50px;
 }
@@ -53,6 +57,7 @@ p{
 }
 .recipies{
     text-align:center;
+
 }
 .menu-area{
     display: flex;
@@ -61,27 +66,40 @@ p{
 
 }
 .menu-area .pic{
-    width:400px;
+    width:300px;
     margin-top:20px;
 
 }
 .box-shadow{
     box-shadow: 10px 10px 50px gray;
-    margin:10px 30px;
+    margin:20px 30px;
     border-radius: 10px;
+}
+.box-shadow p{
+    text-align: justify;
+    padding:3px;
+
+}
+.box-shadow h1{
+    font-size:28px;
 }
 .follower{
   border-radius: 30px;
   margin: 5px 10px;
   padding:20px 20px;
   display:flex;
-  box-shadow: 10px 10px 50px gray;
+  box-shadow: 5px 8px 20px gray;
 }
 .f-count{
     margin-left: 230px;
     font-size: 20px;
 }
-/*foter bar*/
+.Tweeter{
+    color:rgb(255, 20, 32);
+}
+
+
+/*foter section*/
 .footer-bar{
     text-align: center;
     font-size:22px;
